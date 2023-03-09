@@ -1,7 +1,7 @@
 ## Hi, I'm Christian 👋 | How can I help you?
 
 ![profile-banner](https://imgur.com/kOkqNSs.jpg)
-### 🦄 Profile
+## 🦄 Profile
 ```json
 {
   "id": "soy-chrislo",
@@ -22,7 +22,7 @@
 ```
 
 
-### ⚒️ Stack
+## ⚒️ Stack
 - Fall in love with: <br>
 ![TS](https://skillicons.dev/icons?i=ts)
 - Frontend: <br>
@@ -38,11 +38,10 @@
 - SO: Fedora, Arch & Ubuntu <br>
 ![SO](https://skillicons.dev/icons?i=linux)
 
-### ☕ Get in touch
+## ☕ Get in touch
 - LinkedIn: [Christian](https://www.linkedin.com/in/christian-rubio-111521220/)
 - Twitter: [@soychrislo](https://twitter.com/soychrislo)
+- Telegram: [@soychrislo](https://i.imgur.com/qyCKLzx.png)
 - Website: [soychristian.com](https://soychristian.com)
 - Contact Email: chris@soychristian.com
 - Discord: [chrislo#0370](https://discord.com)
-
-
