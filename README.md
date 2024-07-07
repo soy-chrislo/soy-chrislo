@@ -30,7 +30,7 @@
 - Desktop & Mobile: <br>
 ![DesktopMobile](https://skillicons.dev/icons?i=electron,react)
 - Backend: <br>
-![Backend](https://skillicons.dev/icons?i=nodejs,express,deno) 
+![Backend](https://skillicons.dev/icons?i=nodejs,java,express,deno) 
 - Tools: <br>
 ![Tools](https://skillicons.dev/icons?i=bash,docker,figma,git,ps)
 - Data: <br>
