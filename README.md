@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Ibagu%C3%A9-Colombia-FCD116?style=flat-square&labelColor=003893" alt="Ibagué, Colombia">
+  <img src="https://img.shields.io/badge/Colombia-FCD116?style=flat-square&labelColor=003893" alt="Colombia">
   <img src="https://img.shields.io/badge/3%2B%20years-Full%20Stack-2ea44f?style=flat-square" alt="3+ years Full Stack">
   <img src="https://img.shields.io/badge/Open%20to-roles%20%26%20open%20source-8957e5?style=flat-square" alt="Open to roles & open source">
   <img src="https://img.shields.io/badge/English-C1-555?style=flat-square" alt="English C1">
